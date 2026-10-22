@@ -27,7 +27,11 @@ go.work.sum
 
 # env file
 .env
+.env.dev
 
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Local drafts
+README.draft.md
